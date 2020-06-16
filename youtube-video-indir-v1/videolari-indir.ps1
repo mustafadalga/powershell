@@ -1,0 +1,1 @@
+﻿cat .\videolar.txt | % { youtube-dl $_; }
