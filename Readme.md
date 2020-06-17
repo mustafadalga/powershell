@@ -42,5 +42,5 @@
 | [Powershell ile mail gönderme](https://github.com/mustafadalga/powershell/tree/master/Mail-gonder)  |
 | [Üniversite kısmi zamanlı öğrenci alımı](https://github.com/mustafadalga/powershell/tree/master/Universite-kismi-zamanli-ogrenci-alimi)  |
 | [Sınav esnasında copy/paste kontrolü yapma](https://github.com/mustafadalga/powershell/tree/master/Copy-paste-kontrolu)  |
-| [Rastgele renklerden oluşan dinamik yıl başı ağaçlı yazı yazma scripti.](https://github.com/mustafadalga/powershell/tree/master/Mutlu-yillar-bote)  |
+| [Rastgele renklerden oluşan dinamik yıl başı ağaçlı yazı yazma scripti](https://github.com/mustafadalga/powershell/tree/master/Mutlu-yillar-bote)  |
 
