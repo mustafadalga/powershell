@@ -1,0 +1,8 @@
+calc
+notepad
+chrome
+mspaint
+excel
+winword
+opera
+firefox
