@@ -1,0 +1,1 @@
+# Belirl Uzantılari Kopyalama**Belirtilen dosya uzantısına göre ,bir klasördeki dosyaları belirtilen hedef klasöre kopyalan bir script**#### Kodlar```$sourceRoot = "C:\Users\Mustafa\Desktop\lab\*.pdf"$destinationRoot = "C:\Users\Mustafa\Desktop\oz"Copy-Item -Path $sourceRoot -Filter "*.pdf" -Recurse -Destination $destinationRoot -Container```
