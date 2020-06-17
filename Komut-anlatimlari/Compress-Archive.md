@@ -41,7 +41,7 @@ Compress-Archive -Path .\1.jpg,.\2.jpg,.\3.jpg,.\4.jpg,.\5.jpg,.\resimler\ -Comp
 
 Yukarıdaki Komut ile seçilen 5 resim dosyası ve resimler adlı klasör sıkıştırıldı.
 
-####Örnek 3: Mevcut bir arşiv dosyasını güncelleme
+#### Örnek 3: Mevcut bir arşiv dosyasını güncelleme
 
 ```
 Compress-Archive -Path yeniresim.jpg , yeniresimler -CompressionLevel Optimal -DestinationPath arsivim.zip
