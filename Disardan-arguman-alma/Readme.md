@@ -1,4 +1,4 @@
-# Dışardan Argüman Alma
+# Dışarıdan Argüman Alma
 
 
 **Dışarıdan nasıl arguman değerler alınabileceğini gösteren script örnekleri**
