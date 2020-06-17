@@ -4,6 +4,8 @@
 
 **Girilen metni sesli olarak seslendiren bir script.**
 
+#### Kodlar
+
 ```
 Add-Type -AssemblyName System.speech
 $metin = New-Object System.Speech.Synthesis.SpeechSynthesizer
