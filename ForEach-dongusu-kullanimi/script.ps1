@@ -1,0 +1,1 @@
+50..100 | % { New-Item -name $_".txt" }
