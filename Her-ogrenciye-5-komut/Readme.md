@@ -503,18 +503,6 @@ Bu dersi alan ve ogrenciler.txt'de listelenmiş öğrencilerin her birine şöyl
 
 
 
-Öğrenci Adı     Kılavuz hazırlayacağı komutlar
--------------   --------------------------------------------------------------------------------------------------------------------------------------
-
-Öğrenci1        RastgeleKomut1, RastgeleKomut2, RastgeleKomut3,  RastgeleKomut4, RastgeleKomut5,  
-Öğrenci2        RastgeleKomut1, RastgeleKomut2, RastgeleKomut3,  RastgeleKomut4, RastgeleKomut5,  
-Öğrenci3        RastgeleKomut1, RastgeleKomut2, RastgeleKomut3,  RastgeleKomut4, RastgeleKomut5,  
-Öğrenci4        RastgeleKomut1, RastgeleKomut2, RastgeleKomut3,  RastgeleKomut4, RastgeleKomut5,  
-Öğrenci5        RastgeleKomut1, RastgeleKomut2, RastgeleKomut3,  RastgeleKomut4, RastgeleKomut5,  
-Öğrenci6        RastgeleKomut1, RastgeleKomut2, RastgeleKomut3,  RastgeleKomut4, RastgeleKomut5,  
-....
-
-
 
 ogrenciler.txt ve komutlar.txt'deki bilgileri kullanacak bu tabloyu nasıl oluşturabilirim ?
 
