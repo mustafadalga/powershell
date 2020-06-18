@@ -20,9 +20,8 @@ Video dönüştürme işlemleri yapan programların arka tarafında,nasıl çal�
 (Tersine mühendislik, bir aygıtın, objenin veya sistemin; yapısının, işlevinin veya çalışmasının, çıkarımcı bir akıl yürütme analiziyle keşfedilmesi işlemidir.)
 
 Online sitelerde video dönüştürme işlemleri yaparken,hiç bilgisayarınızda ve tarayıcınızda bir yavaşlama hissettiniz mi? ve bu sitelerin sizin bilgisayarınızı kullanarak veri madenciliği yapabileceğini düşündüğünüz mü?
-...
-...
-...
+
+
 
 Amannnnnnnn milletin işi gücü yok benimle mi uğraşacak(?)
 (Bir kum tanesi hiçbirşeydir fakat milyonlarca kum tanesini birleştirince o hiçbirşeyden çok şey oluyor!  veri=>bilgi)
@@ -31,7 +30,7 @@ Amannnnnnnn milletin işi gücü yok benimle mi uğraşacak(?)
 Hem zaman kaybını azaltmak hem de kafamızdaki soru işaretlerini gidermek için arka tarafta neler döndüğünü bildiğimiz uygulamaları kullanacağız.
 
 
-Şimdi yukarıda,olanları görünce endişelenmeye başladım ve bu benim için bir problem oldu ama bu problemi nasıl çözebilirim ki ?
+Şimdi yukarıda , olanları görünce endişelenmeye başladım ve bu benim için bir problem oldu ama bu problemi nasıl çözebilirim ki ?
 
 
 Soru şu;
