@@ -3,7 +3,8 @@
 
 ## Açıklama 
 
-[Arş. Gör. Dr. Can Mıhcı](https://www.linkedin.com/in/canmihci/)'nın verdiği işletim sistemleri dersi kapsamında , Powershell üzerinde verilen problemleri çözümlediğim , komut anlatımları yaptığım  Powershell ile ilgili bir türkçe kaynak.
+[Arş. Gör. Dr. Can Mıhcı](https://www.linkedin.com/in/canmihci/)'nın verdiği işletim sistemleri dersi kapsamında , Powershell üzerinde verilen problemleri çözümlendiğim , uygulamalar üzerinden anlatımlar yaptığım , Türkçe kaynağa katkıda bulunmak için hazırlanmış bir Powershell kaynağıdır.
+
 
 
 | Problemler  |
