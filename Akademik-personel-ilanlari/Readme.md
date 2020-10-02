@@ -296,4 +296,4 @@ Register-ScheduledTask -TaskName Gorev -Trigger $Tsaat -Action $uygulama -RunLev
 
 
 
-**Not :**Powershell yönetici olarak çalıştırılmalıdır.
+**Not :** Powershell yönetici olarak çalıştırılmalıdır.
